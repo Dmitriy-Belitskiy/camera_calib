@@ -1,2 +1,2 @@
 # camera_calib
-dunamic stereopare calibration
+dynamic stereo pair calibration
